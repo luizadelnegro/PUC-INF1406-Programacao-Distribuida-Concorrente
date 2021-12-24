@@ -1,0 +1,4 @@
+// Atenção:
+// - não é necessário acrescentar o '\n' ao final das mensagens
+// -  a idéia do timeout passado para select é auxiliar na coleta de clientes "desaparecidos"
+// - para facilitar os testes, coloquem uma chamada a sleep entre as requisições de cada cliente, para que de fato as requisições se misturem

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "file1.dat": [
+      {
+        "id": "41933eb6-192e-46c8-95e5-8077b1babddb",
+        "line": 1,
+        "version": 4,
+        "index": 0
+      }
+    ],
+    "file3.dat": [
+      {
+        "id": "37ef19f8-ced0-423b-b505-b5488661549a",
+        "line": 1,
+        "version": 3,
+        "index": 0
+      }
+    ],
+    "servercopy.c": [
+      {
+        "id": "e6709bc7-c08d-4c74-bfff-947a4c52fa1d",
+        "line": 23,
+        "version": 1429,
+        "index": 571
+      }
+    ]
+  }
+}
